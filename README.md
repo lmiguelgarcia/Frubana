@@ -10,9 +10,6 @@ Tiempo involucrado para resolver el problema:
   - 2: Alrededor de 3 horas
 
 
-Mi experiencia principal es en .NET, pero he trabajado también con python y typescript para proyectos de la maestría.
-
-
 ### 1. Cuales serian las cualidades para un código limpio?
 
 
