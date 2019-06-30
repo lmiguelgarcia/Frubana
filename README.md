@@ -7,7 +7,7 @@ Tiempo involucrado para resolver el problema:
 
 
   - 1: Alrededor de 40 minutos
-  - 2: Alrededor de 3 horas
+  - 2: Alrededor de 4 horas
 
 
 ### 1. Cuales serian las cualidades para un código limpio?
